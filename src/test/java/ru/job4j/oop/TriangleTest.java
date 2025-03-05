@@ -27,3 +27,4 @@ public class TriangleTest {
         assertThat(result).isCloseTo(expected, offset(0.001));
     }
 }
+
